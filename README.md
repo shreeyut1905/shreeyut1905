@@ -8,5 +8,6 @@
 
 
 ###  Badges  
-[![Kaggle](https://img.shields.io/badge/Kaggle-shreeyutmaheshwari-blue?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/shreeyutmaheshwari)
+![Kaggle](https://img.shields.io/badge/Kaggle-shreeyutmaheshwari-blue?style=flat-square&logo=kaggle&logoColor=white)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreeyut1905&show_icons=true)

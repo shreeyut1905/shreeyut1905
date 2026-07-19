@@ -10,7 +10,7 @@
 ###  Badges  
 ![Kaggle](https://img.shields.io/badge/Kaggle-shreeyutmaheshwari-blue?style=flat-square&logo=kaggle&logoColor=white) </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL) </br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreeyut1905&show_icons=true)
+
 
 ### 💻 Languages & Tools
 

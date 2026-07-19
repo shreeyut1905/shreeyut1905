@@ -4,7 +4,7 @@
 
 ###  Connect with me:
 - 🏆 [Kaggle Profile](https://www.kaggle.com/shreeyutmaheshwari)
-- 💼 [LinkedIn](https://www.linkedin.com/in/shreeyut-maheshwari/)
+- 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreeyut-maheshwari/)
 
 
 ###  Badges  
